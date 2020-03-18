@@ -1,0 +1,4 @@
+name: java-openliberty-child-devfile # format taken from https://github.com/che-incubator/devworkspace-api/issues/25
+schemaVersion: 2.0.0
+parent:
+  uri: https://raw.githubusercontent.com/groeges/java-openliberty-stack/master/devfile.yaml
